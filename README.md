@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dasanivishu
+- 👋 Hi, I’m vishal Dasani
 - 👀 I’m interested in android and software development
 - 🌱 I’m currently learning android development
 - 💞️ I’m looking to collaborate on apps 
