@@ -1,4 +1,4 @@
-![MasterHead](https://images.hdqwalls.com/download/i-love-coding-xl-1920x1080.jpg)
+<!-- ![MasterHead](https://images.hdqwalls.com/wallpapers/book-imagination.jpg) -->
 <h1 align="center">Hi 👋, I'm Vishal Dasani</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
