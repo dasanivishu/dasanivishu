@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently working in **Teradata** as a **Software Engineer**
 
-- 👯 I’m looking to collaborate on **Software Development Projects**
+- 👯 Always Eager to collaborate on **Software Development Projects**
 
-- 💬 Ask me about **Software Development,Web development,Databases , Data Structures and Algorithms.**
+- 💬 Ask me about **Software Development,Cloud Computing,Web development,Databases , Data Structures and Algorithms.**
 
 - 📫 How to reach me **Vishaldasani1999@gmail.com**
 
